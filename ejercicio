@@ -1,0 +1,6 @@
+matriz =[[]]
+for i in range(10)
+if (matriz[i]%2==0):
+matriz.append(0)
+else:
+matriz.append(1)
